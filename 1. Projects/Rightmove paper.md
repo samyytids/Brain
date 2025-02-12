@@ -1,10 +1,11 @@
 ---
-Status: 
+Status: Not started
 tags:
   - project
 Links: 
-Deadline: 
+Deadline: 2025-02-28
 Area:
+  - "[[University]]"
 ---
 ## Related Notes
 ```dataview

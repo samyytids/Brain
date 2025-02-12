@@ -2,6 +2,8 @@
 tags:
   - area
 Links:
+  - "[[Game dev]]"
+  - "[[DevOps]]"
 ---
 ## Projects
 ### Not started

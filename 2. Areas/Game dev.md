@@ -2,6 +2,8 @@
 tags:
   - area
 Links:
+  - "[[Programming]]"
+  - "[[DevOps]]"
 ---
 ## Projects
 ### Not started

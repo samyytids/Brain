@@ -25,6 +25,10 @@
     {
       "folder": "3. Resources",
       "template": "5. Templates/Resource Template.md"
+    },
+    {
+      "folder": "0. Note",
+      "template": "5. Templates/Note Template.md"
     }
   ],
   "enable_file_templates": false,

@@ -2,6 +2,8 @@
 tags:
   - area
 Links:
+  - "[[Programming]]"
+  - "[[Game dev]]"
 ---
 ## Projects
 ### Not started
@@ -9,16 +11,19 @@ Links:
 table Status, Deadline
 from [[]] AND #project 
 where contains(Status, "Not started")
+sort Deadline asc
 ```
 ### In progress
 ```dataview
 table Status, Deadline
 from [[]] AND #project 
 where contains(Status, "In progress")
+sort Deadline asc
 ```
-### Completed
+### Finished
 ```dataview
 table Status, Deadline
 from [[]] AND #project 
-where contains(Status, "Completed")
+where contains(Status, "Finished")
+sort Deadline asc
 ```
