@@ -1,3 +1,4 @@
 {
-  "textFontFamily": "JetBrains Mono"
+  "textFontFamily": "JetBrains Mono,JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font"
 }

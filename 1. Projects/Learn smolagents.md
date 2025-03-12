@@ -1,14 +1,14 @@
 ---
-Status: Finished
+Status: In progress
 tags:
   - project
-  - bevy
-Links: 
-Deadline: 2025-02-16
+Links:
+  - "[[Programming]]"
+Deadline: 
 Area:
   - "[[Programming]]"
-  - "[[Game dev]]"
-  - "[[Rust]]"
+  - "[[Python]]"
+  - "[[Fab]]"
 ---
 ## Related Notes
 ```dataview
@@ -16,7 +16,6 @@ table Status
 from [[]] and #note
 SORT number(split(file.name, "\.")[0]) ASC
 ```
-
 ## Related Resources
 ```dataview
 list

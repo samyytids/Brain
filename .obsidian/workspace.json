@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0dbec903c2bf68a2",
+        "id": "344997057e652599",
         "type": "tabs",
         "children": [
           {
-            "id": "fe6e47deae38fa35",
+            "id": "435a91465a235136",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "80dfdab828e1c254",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Note/Rightmove paper/Planning/0. Thoughts.md",
+                "file": "0. Note/Lean smolagents/3. Tools - in depth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Thoughts"
+              "title": "3. Tools - in depth"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,44 +180,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe6e47deae38fa35",
+  "active": "80dfdab828e1c254",
   "lastOpenFiles": [
-    "0. Note/Rightmove paper/Planning/2. Data.md",
-    "0. Note/Rightmove paper/Planning/1. Introduction.md",
+    "0. Note/Lean smolagents/1. Guided tour.md",
+    "0. Note/Lean smolagents/3. Tools - in depth.md",
+    "0. Note/Lean smolagents/2. Building good agents.md",
+    "1. Projects/Learn smolagents.md",
+    "0. Note/Lean smolagents",
+    "0. Note/Learn smolagents.md",
+    "2. Areas/Fab.md",
+    "2. Areas/Game dev.md",
+    "0. Note/Rightmove paper/Planning/3. Results.md",
+    "0. Note/Rightmove paper/Reading/4. Results.md",
+    "1. Projects/Rightmove paper.md",
+    "My Projects.md",
+    "0. Note/Learn Polars/4. Data types and structures.md",
+    "0. Note/Learn Polars/DataFrame.md",
+    "0. Note/Learn Polars/5. Lazy API.md",
+    "0. Note/Learn Polars/2a. Expression expansion.md",
+    "0. Note/Learn Polars/2. Expressions and contexts.md",
+    "0. Note/Learn Polars/3. Concatenating and joining.md",
+    "0. Note/Learn Polars/1. Reading and writing.md",
+    "1. Projects/Lean Polars.md",
+    "0. Note/Learn Polars",
+    "0. Note/Rightmove paper/Reading/3. Methodology.md",
     "0. Note/Rightmove paper/Reading/1. Introduction.md",
     "0. Note/Rightmove paper/Reading/2. Data.md",
-    "0. Note/Rightmove paper/Reading/3. Methodology.md",
-    "0. Note/Rightmove paper/Reading/4. Results.md",
-    "0. Note/Rightmove paper/Reading/5. Conclusion.md",
-    "0. Note/Rightmove paper/Reading/6. Abstract.md",
+    "0. Note/Rightmove paper/Planning/2. Data.md",
     "0. Note/Rightmove paper/Planning/0. Thoughts.md",
-    "1. Projects/Rightmove paper.md",
-    "2. Areas/University.md",
-    "3. Resources/Rightmove references.md",
-    "5. Templates/Project Template.md",
+    "0. Note/Rightmove paper/Planning/1. Introduction.md",
+    "1. Projects/Learn Nvim.md",
+    "0. Note/Learn Nvim/Effective neovim set up. A beginner's guide",
+    "0. Note/Learn Nvim",
+    "0. Note/Learn Git/Github actions",
+    "0. Note/Learn Git/Primeagen",
+    "0. Note/Learn UV",
     "0. Note/Rightmove paper/Writing",
     "0. Note/Rightmove paper/Planning",
     "0. Note/Rightmove paper/Reading",
-    "3. Resources/Bevy release notes.md",
-    "Gerardi.md",
-    "1. Projects/Learn Git.md",
-    "2. Areas/Programming.md",
-    "2. Areas/DevOps.md",
-    "2. Areas/Game dev.md",
-    "0. Note/Rightmove paper",
-    "5. Templates/Resource Template.md",
-    "5. Templates/Note Template.md",
-    "5. Templates/Area Template.md",
-    "1. Projects/Map out useful bevy features.md",
-    "My Projects.md",
-    "0. Note/Learn Git/18. Git tag.md",
-    "0. Note/Learn Git/17. Git bisect.md",
-    "0. Note/Learn Git",
-    "6. Images/Pasted image 20250209144424.png",
-    "6. Images",
-    "0. Note/Useful bevy features",
-    "0. Note/Example",
-    "0. Note",
-    "1. Projects/Example"
+    "6. Images/Pasted image 20250209144424.png"
   ]
 }
