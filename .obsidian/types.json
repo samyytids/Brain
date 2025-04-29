@@ -6,6 +6,7 @@
     "Deadline": "date",
     "Links": "multitext",
     "Area": "multitext",
-    "Project": "multitext"
+    "Project": "multitext",
+    "Url": "text"
   }
 }

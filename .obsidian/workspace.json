@@ -11,28 +11,17 @@
             "id": "435a91465a235136",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "80dfdab828e1c254",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Note/Lean smolagents/3. Tools - in depth.md",
+                "file": "0. Note/Gleam bolt/Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Tools - in depth"
+              "title": "Planning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,44 +169,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80dfdab828e1c254",
+  "active": "435a91465a235136",
   "lastOpenFiles": [
-    "0. Note/Lean smolagents/1. Guided tour.md",
-    "0. Note/Lean smolagents/3. Tools - in depth.md",
-    "0. Note/Lean smolagents/2. Building good agents.md",
-    "1. Projects/Learn smolagents.md",
-    "0. Note/Lean smolagents",
-    "0. Note/Learn smolagents.md",
-    "2. Areas/Fab.md",
-    "2. Areas/Game dev.md",
-    "0. Note/Rightmove paper/Planning/3. Results.md",
-    "0. Note/Rightmove paper/Reading/4. Results.md",
-    "1. Projects/Rightmove paper.md",
-    "My Projects.md",
-    "0. Note/Learn Polars/4. Data types and structures.md",
-    "0. Note/Learn Polars/DataFrame.md",
-    "0. Note/Learn Polars/5. Lazy API.md",
-    "0. Note/Learn Polars/2a. Expression expansion.md",
-    "0. Note/Learn Polars/2. Expressions and contexts.md",
-    "0. Note/Learn Polars/3. Concatenating and joining.md",
-    "0. Note/Learn Polars/1. Reading and writing.md",
+    "0. Note/Gleam bolt/Planning.canvas",
+    "0. Note/Gleam bolt/Planning.md",
+    "0. Note/Epc paper/Reading/Green Neighbors, Greener Neighborhoods Peer Effects in Residential Green Investments.md",
+    "0. Note/Epc paper/0. Planning.md",
+    "5. Templates/Project Template.md",
+    "0. Note/Learn BEAM VM/Chapter 2 The compiler.md",
+    "0. Note/Learn BEAM VM/Chapter 1.md",
+    "1. Projects/Learn BEAM VM.md",
+    "0. Note/Learn BEAM VM",
+    "0. Note/Learn Helix/Chapter 4.md",
+    "0. Note/Learn Helix/Chapter 3 Motions and selections.md",
+    "0. Note/Learn Helix/Chapter 7.md",
+    "0. Note/Learn Helix/Chapter 8.md",
+    "0. Note/Learn Helix/Chapter 9.md",
+    "0. Note/Learn Helix/Chapter 10.md",
+    "0. Note/Learn Helix/Chapter 6.md",
+    "0. Note/Learn Helix/Chapter 5.md",
+    "0. Note/Learn Helix/Chapter 2 Insert positioning.md",
+    "0. Note/Learn Helix/Chapter 1.md",
+    "0. Note/Learn Helix/Chapter 13.md",
+    "0. Note/Learn Helix/Chapter 12.md",
+    "0. Note/Learn Helix/Chapter 11.md",
+    "1. Projects/Learn Helix.md",
+    "0. Note/Learn Helix",
+    "0. Note/Epc paper/Reading",
+    "1. Projects/Epc paper.md",
+    "0. Note/Epc paper",
     "1. Projects/Lean Polars.md",
+    "1. Projects/Gleam bolt.md",
+    "Untitled.md",
+    "0. Note/Gleam bolt",
+    "0. Note/Lean smolagents",
     "0. Note/Learn Polars",
-    "0. Note/Rightmove paper/Reading/3. Methodology.md",
-    "0. Note/Rightmove paper/Reading/1. Introduction.md",
-    "0. Note/Rightmove paper/Reading/2. Data.md",
-    "0. Note/Rightmove paper/Planning/2. Data.md",
-    "0. Note/Rightmove paper/Planning/0. Thoughts.md",
-    "0. Note/Rightmove paper/Planning/1. Introduction.md",
-    "1. Projects/Learn Nvim.md",
     "0. Note/Learn Nvim/Effective neovim set up. A beginner's guide",
     "0. Note/Learn Nvim",
     "0. Note/Learn Git/Github actions",
-    "0. Note/Learn Git/Primeagen",
-    "0. Note/Learn UV",
-    "0. Note/Rightmove paper/Writing",
-    "0. Note/Rightmove paper/Planning",
-    "0. Note/Rightmove paper/Reading",
     "6. Images/Pasted image 20250209144424.png"
   ]
 }
