@@ -3,7 +3,7 @@ tags:
   - note
 Project:
   - "[[Learn Helix]]"
-Status: In progress
+Status: Finished
 ---
 # Create a new split
 Ctrl + w opens the window menu, this provides you a window that tells you all the commands you can use in this mode. 

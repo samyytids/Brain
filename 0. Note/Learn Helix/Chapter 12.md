@@ -3,7 +3,7 @@ tags:
   - note
 Project:
   - "[[Learn Helix]]"
-Status: In progress
+Status: Finished
 ---
 # Entering match mode
 m this mode is most useful for handling bracket pairs.

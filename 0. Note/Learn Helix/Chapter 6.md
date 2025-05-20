@@ -3,7 +3,7 @@ tags:
   - note
 Project:
   - "[[Learn Helix]]"
-Status: In progress
+Status: Finished
 ---
 # Selecting to a character
 These can search across multiple lines.

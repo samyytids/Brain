@@ -3,7 +3,7 @@ tags:
   - note
 Project:
   - "[[Learn Helix]]"
-Status: In progress
+Status: Finished
 ---
 # Replace text
 R let's you replace a selection with text you have yanked.

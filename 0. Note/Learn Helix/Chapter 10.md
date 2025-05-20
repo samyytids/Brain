@@ -3,7 +3,7 @@ tags:
   - note
 Project:
   - "[[Learn Helix]]"
-Status: In progress
+Status: Finished
 ---
 # Cycling and removing selections
 Say you have a series of selections of the word would, but you want to deselect one of them that does not need to be changed. 

@@ -3,8 +3,11 @@ Status: In progress
 tags:
   - project
 Links: 
-Deadline: 
+Deadline: 2025-05-07
 Area:
+  - "[[Python]]"
+  - "[[Web scraping]]"
+  - "[[Fab]]"
   - "[[Programming]]"
 ---
 ## Related Notes

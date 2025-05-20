@@ -3,7 +3,7 @@ tags:
   - note
 Project:
   - "[[Epc paper]]"
-Status: In progress
+Status: Finished
 Url: https://www.huangchristine.com/assets/files/ChristineZH_utd_jmp.pdf
 ---
 # Thoughts on how to achieve KNN

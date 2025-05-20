@@ -6,6 +6,7 @@ Links:
 Deadline: 
 Area:
   - "[[Programming]]"
+  - "[[NU]]"
 ---
 ## Related Notes
 ```dataview
